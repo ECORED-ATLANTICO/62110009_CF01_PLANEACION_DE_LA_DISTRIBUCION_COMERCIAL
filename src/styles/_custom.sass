@@ -356,7 +356,13 @@ figcaption
 //   border-radius: 15px
 
 .bg-fondo-11
-  // background-image: url("../assets/curso/tema6/img10.png") !important
+  background-image: url("../assets/curso/tema3/img10.png") !important
+  background-position: center
+  background-size: cover
+  border-radius: 15px
+
+.bg-fondo-12
+  background-image: url("../assets/curso/tema3/bg09.png") !important
   background-position: center
   background-size: cover
   border-radius: 15px
@@ -827,7 +833,7 @@ a, button, div
       background-color: #FFCA00
 
 .bg-color-08
-  background-color: #D800FF
+  background-color: #FFA85B
 
 .bg-color-09
   background-color: #FBEDFE
@@ -1410,7 +1416,7 @@ a, button, div
 
 .tabla-a.tb-custom
   table
-    min-width: 100%
+    // min-width: 100%
   thead
     border-top: 5px solid #3FA8FE !important
     background-color: #EBF6FF !important
@@ -1428,16 +1434,16 @@ a, button, div
     tr
       border-bottom: none !important
     tr:nth-child(even)
-      background-color: #F8F9FA !important
+      background-color: transparent !important
     tr:nth-child(odd)
-      background-color: #FFFFFF !important
+      background-color: transparent !important
     td
       padding: 12px 15px
       text-align: left
       border-right: 1px solid #D6DBE1 !important
       border-left: none !important
       border-top: none !important
-      border-bottom: none !important
+      border-bottom: 1px solid #D6DBE1 !important
       &:last-child
         border-right: none !important
       &:first-child
@@ -1452,8 +1458,8 @@ a, button, div
   // @media screen and (max-width: $bp-max-lg)
   //   width: auto
 
-  // @media screen and (max-width: $bp-max-md)
-  //   width: auto
+  @media screen and (max-width: $bp-max-md)
+    width: auto
 
 .slyder-a__tipo-b .slyder-a__btn--atrs, .slyder-a__tipo-b .slyder-a__btn--sigt
   opacity: 1 !important
