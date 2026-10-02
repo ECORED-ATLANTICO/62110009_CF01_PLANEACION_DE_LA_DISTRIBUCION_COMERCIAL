@@ -9,7 +9,7 @@
       h1 Introducción
 
     .row.mb-lg-5.mb-5.justify-content-center.align-items-center
-      .col-lg-3.col-md-8.mb-0.mb-lg-0.order-1.order-lg-2
+      .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src="@/assets/curso/intro/img01.png", data-aos="zoom-in").mx-auto
       .col-lg-9.order-2.order-lg-1.mb-0.mb-lg-0
