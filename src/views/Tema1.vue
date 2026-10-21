@@ -34,7 +34,7 @@
     separador
     
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.2. Atributos
+      h2 1.2 Atributos
 
     p.mb-4 Los atributos del producto corresponden a las características que permiten diferenciarlo en el mercado y generar valor para el cliente. Su análisis facilita la selección de canales de distribución y la definición de estrategias comerciales acordes con las necesidades del consumidor. Entre los principales atributos se encuentran:
 
@@ -187,7 +187,7 @@
               .col-6.col-sm-4.col-md-3.col-lg-2.mb-3.mb-lg-0.mx-auto.mx-lg-0.text-center
                 img(src="@/assets/curso/tema1/img13.png")
               .col-12.col-lg.mb-2.mb-lg-0
-                h4.mb-2.max-cont-md.mx-lg-0.text-lg-start Qué es un producto: características, tipos, propósitos, benedicios.
+                h4.mb-2.max-cont-md.mx-lg-0.text-lg-start Qué es un producto: características, tipos, propósitos, beneficios.
                 p.mb-0 Para fortalecer la comprensión del concepto de producto y su importancia en la estrategia de mercadeo, se recomienda ir al siguiente recurso, donde se explica cómo las empresas diseñan productos integrando atributos, valor y experiencia del cliente:
               .col-12.col-lg-auto.text-center
                 a.boton.color-acento-botones(:href="'https://www.youtube.com/watch?v=Ls8xm2fys7I&t=55s'" target="_blank")

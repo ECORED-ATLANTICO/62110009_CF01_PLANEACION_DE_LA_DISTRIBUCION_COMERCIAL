@@ -179,12 +179,10 @@
             .col-6.col-sm-4.col-md-3.col-lg-2.mb-3.mb-lg-0.mx-auto.mx-lg-0.text-center
               img(src="@/assets/curso/tema1/img13.png")
             .col-12.col-lg.mb-2.mb-lg-0
-              //- h4.mb-2.max-cont-md.mx-lg-0.text-lg-start Qué es un producto: características, tipos, propósitos, benedicios.
               p.mb-0 Para comprender los conceptos, tipos y funcionamiento de los canales de distribución dentro de la estrategia comercial, se recomienda el siguiente recurso:
             .col-12.col-lg-auto.text-center
               a.boton.color-acento-botones(:href="'https://www.youtube.com/watch?v=FWs9xNZcgBw&t=29s'" target="_blank")
                 span Ir al recurso
-                //- i.fas.fa-link
 
     .container
       .row.justify-content-center.align-items-center.mb-4
@@ -194,7 +192,7 @@
               figure
                 img(src="@/assets/curso/tema2/img18.png", data-aos="fade-right").w-50.mx-auto
             .col-lg-6.order-1.order-md-1.order-lg-1.p-4.p-lg-3
-              p(data-aos="fade-left").mb-4 Ir al pódcast:
+              p(data-aos="fade-left").mb-4 A continuación, lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="La selección de canales de distribución: una decisión estratégica"
                 tiempo

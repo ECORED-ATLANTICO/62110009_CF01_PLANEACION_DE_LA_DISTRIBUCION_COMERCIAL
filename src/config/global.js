@@ -330,12 +330,12 @@ export default {
     },
     {
       referencia:
-        'Christopher, M. (2016). Logística y gestión de la cadena de suministro (5.ª ed.). Pearson Educación.',
+        'Chopra, S., & Meindl, P. (2013). Administración de la cadena de suministro: Estrategia, planeación y operación (5.ª ed.). Pearson Educación.',
+      link: 'https://gc.scalahed.com/recursos/files/r161r/w24567w/Sunil_Chopral.pdf',
     },
     {
       referencia:
-        'Chopra, S., & Meindl, P. (2013). Administración de la cadena de suministro: Estrategia, planeación y operación (5.ª ed.). Pearson Educación.',
-      link: 'https://gc.scalahed.com/recursos/files/r161r/w24567w/Sunil_Chopral.pdf',
+        'Christopher, M. (2016). Logística y gestión de la cadena de suministro (5.ª ed.). Pearson Educación.',
     },
     {
       referencia:
@@ -378,7 +378,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional G06. Responsable Ecosistema de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -392,13 +392,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nicolas Cruz',
-          cargo: 'Experto temático',
+          nombre: 'Mario Morales Cabrera',
+          cargo: 'Experto Temático Logística',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Rosmery Conde',
-          cargo: 'Evaluadora instruccional',
+          nombre: 'Jair Coll Gallardo',
+          cargo: 'Experto Temático Comercio y servicio',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -407,8 +407,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Andrés Felipe Herrera Roldan',
-          cargo: 'Diseñador de contenidos digitales',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -437,18 +437,18 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Laura Daniela Burgos Rueda',
+          nombre: 'Karine Isabel Ospino Fritz',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Luis Gabriel Urueta',
+          cargo: 'Validador y vinculadora de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          nombre: 'Laura Daniela Burgos Rueda',
+          cargo: 'Validadora y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

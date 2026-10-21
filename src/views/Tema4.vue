@@ -5,9 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Producción de contenidos digitales
-
-
+      h1 Intermediarios
 
     .container
       .row.mb-lg-4.mb-3.justify-content-center.align-items-center.bg-color-06
@@ -37,8 +35,6 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Tipos
 
-
-      
     .bg-full-width.bg-fondo-1
       .row.mb-lg-4.mb-4.justify-content-center.align-items-center
         .col-lg-4.col-md-12.mb-4.mb-lg-0.order-1.order-lg-1
@@ -47,7 +43,7 @@
             img(src="@/assets/curso/tema4/img03.png", data-aos="zoom-in").mx-auto.w-md-75
 
         .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
-          AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-c1").mb-0(data-aos="zoom-in")
+          AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-c1" data-aos="zoom-in").mb-0
             .tarjeta(titulo="Mayoristas")
               p.mb-0 Adquieren productos en grandes cantidades directamente de fabricantes o proveedores para almacenarlos y posteriormente venderlos a minoristas, empresas u otros intermediarios, facilitando el abastecimiento y la cobertura de diferentes zonas o mercados.
 

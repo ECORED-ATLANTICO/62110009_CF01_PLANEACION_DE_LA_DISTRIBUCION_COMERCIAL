@@ -177,7 +177,7 @@
               img(src="@/assets/curso/tema2/img12.png", data-aos="zoom-in").mx-auto
           .col-lg-7.order-2.order-lg-2.mb-0.mb-lg-0.p-3
             p.mb-0(data-aos="fade-right") La distribución genera valor al facilitar que los productos lleguen al cliente en el lugar, momento y condiciones adecuadas, contribuyendo a la eficiencia comercial y a la satisfacción del consumidor.
-        
+      
       p.mb-4 Las principales utilidades de la distribución son:
 
       .row.mb-lg-5.mb-4.justify-content-center
@@ -231,7 +231,7 @@
                 figure
                   img(src="@/assets/curso/tema2/img18.png", data-aos="fade-right").w-50.mx-auto
               .col-lg-6.order-1.order-md-1.order-lg-2.p-4.p-lg-3
-                p(data-aos="fade-left").mb-4 Ir al pódcast:
+                p(data-aos="fade-left").mb-4 A continuación, lo invitamos a consultar el siguiente pódcast:
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                   texto="La logística y la distribución hoy"
                   tiempo
