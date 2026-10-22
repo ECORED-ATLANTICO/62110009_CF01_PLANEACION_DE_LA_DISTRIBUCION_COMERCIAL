@@ -76,7 +76,7 @@
               .col-lg-auto
                 img.d-none.d-lg-flex(src="@/assets/curso/tema1/img10.png", style="max-width: 150px").mx-auto
               .col-lg
-                p.mb-0 En el entorno empresarial, McDonald’s opera bajo acuerdos de franquicia que garantizan estandarización del servicio, mientras que Samsung utiliza acuerdos de distribución con retailers para posicionar sus productos en grandes superficies.
+                p.mb-0 En el entorno empresarial, McDonald’s opera bajo acuerdos de franquicia que garantizan estandarización del servicio, mientras que Samsung utiliza acuerdos de distribución con <em>retailers</em> para posicionar sus productos en grandes superficies.
 
       separador
       
@@ -129,7 +129,7 @@
     .row.mb-lg-4.mb-4.justify-content-center.align-items-center
       .col-lg-10.col-md-12
         .cajon.bg-color-c1.p-4
-          p.mb-0 En la práctica, empresas como Grupo Éxito establecen acuerdos con proveedores para garantizar abastecimiento continuo, condiciones de exhibición y estrategias promocionales, mientras que Amazon regula su marketplace mediante acuerdos que definen condiciones de venta para terceros.
+          p.mb-0 En la práctica, empresas como Grupo Éxito establecen acuerdos con proveedores para garantizar abastecimiento continuo, condiciones de exhibición y estrategias promocionales, mientras que Amazon regula su <em>marketplace</em> mediante acuerdos que definen condiciones de venta para terceros.
 
 
 

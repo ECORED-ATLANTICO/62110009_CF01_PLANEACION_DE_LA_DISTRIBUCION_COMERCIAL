@@ -31,7 +31,7 @@
         p.mb-3(data-aos="fade-right") La distribución se define como el conjunto de actividades orientadas a trasladar productos desde el productor hasta el consumidor final, garantizando disponibilidad, accesibilidad y condiciones adecuadas. Este proceso integra funciones logísticas, comerciales y operativas como transporte, almacenamiento, gestión de inventarios y coordinación de intermediarios.
         
         .bg-fondo-05.br-15.mb-3.p-4
-          p.mb-0 Desde el enfoque de mercadeo, la distribución corresponde a la variable “plaza” dentro del marketing mix y cumple la función de facilitar el acceso del cliente al producto en el lugar y momento adecuados. Su gestión requiere alineación con el segmento de mercado, el tipo de producto y la estrategia comercial de la organización.
+          p.mb-0 Desde el enfoque de mercadeo, la distribución corresponde a la variable “plaza” dentro del <em>marketing mix</em> y cumple la función de facilitar el acceso del cliente al producto en el lugar y momento adecuados. Su gestión requiere alineación con el segmento de mercado, el tipo de producto y la estrategia comercial de la organización.
 
         p.mb-0 En la práctica, empresas como Amazon han optimizado la distribución mediante centros logísticos automatizados, entregas en 24 horas y sistemas de última milla, mientras que Coca-Cola mantiene una red global de distribución intensiva que garantiza presencia en tiendas, supermercados y máquinas dispensadoras.
 
@@ -106,7 +106,7 @@
         figure
           img(src="@/assets/curso/tema2/img10.png", data-aos="zoom-in").mx-auto
       .col-lg-9.order-2.order-lg-2.mb-0.mb-lg-0
-        p.mb-3(data-aos="fade-right") En empresas como Alpina, el plan de distribución incorpora cadena de frío, rutas de transporte especializadas y frecuencia de abastecimiento en puntos de venta. De igual manera, Mercado Libre diseña planes de distribución que integran centros de fulfillment, operadores logísticos y entregas de última milla para asegurar tiempos competitivos.
+        p.mb-3(data-aos="fade-right") En empresas como Alpina, el plan de distribución incorpora cadena de frío, rutas de transporte especializadas y frecuencia de abastecimiento en puntos de venta. De igual manera, Mercado Libre diseña planes de distribución que integran centros de <em>fulfillment</em>, operadores logísticos y entregas de última milla para asegurar tiempos competitivos.
         .bg-fondo-05.br-15.mb-0.p-4
           p.mb-0 Este tema será abordado con mayor profundidad en secciones posteriores del componente formativo, donde se analizarán sus elementos y aplicación. Su desarrollo permitirá comprender su importancia dentro de la gestión de la distribución comercial.
 
@@ -133,7 +133,6 @@
           span Tipos de sistema de distribución
         .tabla-a.tb-custom.mb-0
           table
-            caption Nota. SENA, (2026).
             thead
               tr
                 th() Sistema de distribución
@@ -161,7 +160,7 @@
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/img10.png", style="max-width: 150px").mx-auto
             .col-lg
-              p.mb-0 En la práctica, Falabella implementa un sistema multicanal que combina tiendas físicas, comercio electrónico, marketplace y aplicaciones móviles. Por su parte, McDonald’s utiliza un sistema vertical altamente controlado mediante franquicias que operan bajo estándares definidos por la marca.
+              p.mb-0 En la práctica, Falabella implementa un sistema multicanal que combina tiendas físicas, comercio electrónico, <em>marketplace</em> y aplicaciones móviles. Por su parte, McDonald’s utiliza un sistema vertical altamente controlado mediante franquicias que operan bajo estándares definidos por la marca.
 
 
     separador

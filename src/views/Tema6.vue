@@ -119,7 +119,6 @@
             span Clasificación de formatos comerciales
           .tabla-a.tb-custom.mb-0
             table
-              //- caption Nota. SENA, (2026).
               thead
                 tr
                   th() Criterio

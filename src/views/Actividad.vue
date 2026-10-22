@@ -433,7 +433,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El canal indirecto largo incorpora varios intermediarios antes de llegar al consumidor final.',
+            'El canal indirecto largo incorpora varios intermediarios antes de llegar al consumidor final.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -466,7 +466,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El mayorista compra grandes volúmenes para abastecer a minoristas u otras empresas.',
+            'El mayorista compra grandes volúmenes para abastecer a minoristas u otras empresas.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -598,7 +598,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El acuerdo de exclusividad limita la comercialización a un intermediario autorizado en un territorio específico.',
+            'El acuerdo de exclusividad limita la comercialización a un intermediario autorizado en un territorio específico.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

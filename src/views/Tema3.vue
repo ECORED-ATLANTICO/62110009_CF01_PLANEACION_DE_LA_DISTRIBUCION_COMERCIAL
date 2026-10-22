@@ -84,7 +84,6 @@
           span Características de los canales de distribución
         .tabla-a.tb-custom.mb-0
           table
-            //- caption Nota. SENA, (2026).
             thead
               tr
                 th() Característica
@@ -168,7 +167,7 @@
             .tarjeta.color-acento-botones--borde.p-4(titulo="Costos").align-content-center
               p.mb-0 Compara los recursos económicos requeridos por las diferentes alternativas de distribución, considerando transporte, almacenamiento, inventarios, intermediación y gestión comercial, para seleccionar un canal que responda a las necesidades empresariales y mantenga una operación económicamente sostenible.
 
-    p.mb-5 En la práctica, Samsung selecciona canales combinando distribuidores autorizados, retail y comercio electrónico, mientras que Rappi actúa como canal digital que conecta restaurantes con consumidores, optimizando la distribución en entornos urbanos.
+    p.mb-5 En la práctica, Samsung selecciona canales combinando distribuidores autorizados, <em>retail</em> y comercio electrónico, mientras que Rappi actúa como canal digital que conecta restaurantes con consumidores, optimizando la distribución en entornos urbanos.
 
 
     
@@ -199,8 +198,6 @@
                 :audio="require_src('@/assets/curso/podcast/podcast2.mp3')"
               )
 
-    
-
 </template>
 
 <script>
@@ -208,6 +205,7 @@ export default {
   name: 'Tema3',
   data: () => ({
     mostrarIndicadorTarjetaAudio: true,
+    modal1: false,
   }),
 }
 </script>

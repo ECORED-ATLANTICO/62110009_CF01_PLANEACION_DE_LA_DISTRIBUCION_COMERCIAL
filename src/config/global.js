@@ -320,6 +320,7 @@ export default {
     },
     {
       termino: 'Stock',
+      terminoHtml: '<em>Stock</em>',
       significado: 'Cantidad de productos disponibles para atender la demanda.',
     },
   ],
@@ -347,7 +348,7 @@ export default {
     },
     {
       referencia:
-        'Levy, M., & Weitz, B. (2012). Administración de ventas al detal (retail) (8.ª ed.). McGraw-Hill.',
+        'Levy, M., & Weitz, B. (2012). Administración de ventas al detal (<em>retail</em>) (8.ª ed.). McGraw-Hill.',
     },
     {
       referencia:
@@ -393,12 +394,12 @@ export default {
       autores: [
         {
           nombre: 'Mario Morales Cabrera',
-          cargo: 'Experto Temático Logística',
+          cargo: 'Experto temático logística',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jair Coll Gallardo',
-          cargo: 'Experto Temático Comercio y servicio',
+          cargo: 'Experto temático comercio y servicio',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -443,12 +444,12 @@ export default {
         },
         {
           nombre: 'Luis Gabriel Urueta',
-          cargo: 'Validador y vinculadora de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Validadora y vinculador de recursos educativos digitales',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
