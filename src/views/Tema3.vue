@@ -167,21 +167,18 @@
             .tarjeta.color-acento-botones--borde.p-4(titulo="Costos").align-content-center
               p.mb-0 Compara los recursos económicos requeridos por las diferentes alternativas de distribución, considerando transporte, almacenamiento, inventarios, intermediación y gestión comercial, para seleccionar un canal que responda a las necesidades empresariales y mantenga una operación económicamente sostenible.
 
-    p.mb-5 En la práctica, Samsung selecciona canales combinando distribuidores autorizados, <em>retail</em> y comercio electrónico, mientras que Rappi actúa como canal digital que conecta restaurantes con consumidores, optimizando la distribución en entornos urbanos.
+    p.mb-3 En la práctica, Samsung selecciona canales combinando distribuidores autorizados, <em>retail</em> y comercio electrónico, mientras que Rappi actúa como canal digital que conecta restaurantes con consumidores, optimizando la distribución en entornos urbanos.
 
+    p.mb-4 Para comprender los conceptos, tipos y funcionamiento de los canales de distribución dentro de la estrategia comercial, se recomienda el siguiente recurso:
 
-    
-    .row.align-items-center(data-aos="fade-right")
-      .col-lg-10.mx-auto
-        .tarjeta.bg-fondo-11.p-3.mb-5
-          .row.justify-content-around.align-items-center
-            .col-6.col-sm-4.col-md-3.col-lg-2.mb-3.mb-lg-0.mx-auto.mx-lg-0.text-center
-              img(src="@/assets/curso/tema1/img13.png")
-            .col-12.col-lg.mb-2.mb-lg-0
-              p.mb-0 Para comprender los conceptos, tipos y funcionamiento de los canales de distribución dentro de la estrategia comercial, se recomienda el siguiente recurso:
-            .col-12.col-lg-auto.text-center
-              a.boton.color-acento-botones(:href="'https://www.youtube.com/watch?v=FWs9xNZcgBw&t=29s'" target="_blank")
-                span Ir al recurso
+    .row.mb-5.justify-content-center.align-items-center
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5.text-bold.mb-2 Video 1.
+          span Canales de distribución
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/FWs9xNZcgBw?si=AlcVnnl9NZKZ2_9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
 
     .container
       .row.justify-content-center.align-items-center.mb-4
